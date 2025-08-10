@@ -10,7 +10,6 @@ Features:
 How to run:
 1. Install dependencies: `npm install`
 2. Start dev server: `npm run start`
-3. Open the app at http://localhost:5173 (vite default)
 
 Notes:
 - This repo stores only form schemas in localStorage; user input is not persisted.
